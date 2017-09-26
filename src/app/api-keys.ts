@@ -1,8 +1,8 @@
 export var masterFirebaseConfig = {
-   apiKey: "AIzaSyCBi3umGRUzFLVtCLXvgrQFjhHTlmNS4WA",
-   authDomain: "sapp-f1a58.firebaseapp.com",
-   databaseURL: "https://sapp-f1a58.firebaseio.com",
-   projectId: "sapp-f1a58",
-   storageBucket: "sapp-f1a58.appspot.com",
-   messagingSenderId: "186933116380"
+    apiKey: "AIzaSyBzGyf7Nu8rLR5EWA0a6w6BveqstEpmdho",
+    authDomain: "sapp-178216.firebaseapp.com",
+    databaseURL: "https://sapp-178216.firebaseio.com",
+    projectId: "sapp-178216",
+    storageBucket: "sapp-178216.appspot.com",
+    messagingSenderId: "519063940997"
  }
